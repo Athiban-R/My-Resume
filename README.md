@@ -39,7 +39,7 @@
 <body>
 
   <h1>Welcome to My Resume Page</h1>
-  <a class="resume-button" href="https://drive.google.com/file/d/1Fug9CZ6fAnFR3QHN4PVamEN2rAI4hjNn/view?usp=drive_link" target="_blank">
+  <a class="resume-button" href="file:///C:/Users/athib/OneDrive/Desktop/index.html" target="_blank">
     Click Here to View My Resume
   </a>
 
